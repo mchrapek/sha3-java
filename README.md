@@ -1,6 +1,6 @@
 # SHA3 Java Implementation
 
-[![.github/workflows/actions.yml](https://github.com/mchrapek/sha3-java/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/mchrapek/sha3-java/actions/workflows/actions.yml)
+[![.github/workflows/actions.yml](https://github.com/mchrapek/sha3-java/actions/workflows/actions.yml/badge.svg)](https://github.com/mchrapek/sha3-java/actions/workflows/actions.yml)
 
 This is a java implementation of SHA3 (Keccak), based on the:
 [PDF](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf).
