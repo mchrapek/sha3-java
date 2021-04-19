@@ -19,5 +19,3 @@ jobs:
       - name: Build
         run: mvn --batch-mode package
       - uses: codecov/codecov-action@v1
-        with:
-          verbose: true
