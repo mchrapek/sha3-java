@@ -1,8 +1,8 @@
-package pl.marek.sha3;
+package pl.mchrapek.sha3;
 
 import org.junit.Assert;
 import org.junit.Test;
-import pl.marek.sha3.utils.HexTools;
+import pl.mchrapek.sha3.utils.HexTools;
 
 import java.io.File;
 import java.io.FileInputStream;

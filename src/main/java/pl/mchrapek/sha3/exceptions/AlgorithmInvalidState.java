@@ -1,4 +1,4 @@
-package pl.marek.sha3.exceptions;
+package pl.mchrapek.sha3.exceptions;
 
 public class AlgorithmInvalidState extends RuntimeException {
 

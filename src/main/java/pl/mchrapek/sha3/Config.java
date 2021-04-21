@@ -1,4 +1,4 @@
-package pl.marek.sha3;
+package pl.mchrapek.sha3;
 
 public class Config {
 

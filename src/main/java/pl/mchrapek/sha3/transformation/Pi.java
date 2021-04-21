@@ -1,4 +1,4 @@
-package pl.marek.sha3.transformation;
+package pl.mchrapek.sha3.transformation;
 
 public class Pi {
 

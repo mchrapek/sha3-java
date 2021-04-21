@@ -1,4 +1,4 @@
-package pl.marek.sha3;
+package pl.mchrapek.sha3;
 
 public enum Type {
     SHA3_224(224),

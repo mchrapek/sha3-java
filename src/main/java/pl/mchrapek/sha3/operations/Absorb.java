@@ -1,7 +1,7 @@
-package pl.marek.sha3.operations;
+package pl.mchrapek.sha3.operations;
 
-import pl.marek.sha3.Config;
-import pl.marek.sha3.Type;
+import pl.mchrapek.sha3.Config;
+import pl.mchrapek.sha3.Type;
 
 import java.io.IOException;
 import java.io.InputStream;
