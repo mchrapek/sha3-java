@@ -7,6 +7,7 @@
     <groupId>pl.mchrapek</groupId>
     <artifactId>sha3-java</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>sha3-java</name>
     <description>Java implementation of SHA3.</description>
