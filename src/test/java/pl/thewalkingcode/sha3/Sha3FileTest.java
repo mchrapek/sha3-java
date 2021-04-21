@@ -1,8 +1,8 @@
-package pl.mchrapek.sha3;
+package pl.thewalkingcode.sha3;
 
 import org.junit.Assert;
 import org.junit.Test;
-import pl.mchrapek.sha3.utils.HexTools;
+import pl.thewalkingcode.sha3.utils.HexTools;
 
 import java.io.File;
 import java.io.FileInputStream;

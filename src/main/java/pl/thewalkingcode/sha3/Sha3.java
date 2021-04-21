@@ -1,9 +1,9 @@
-package pl.mchrapek.sha3;
+package pl.thewalkingcode.sha3;
 
-import pl.mchrapek.sha3.exceptions.AlgorithmInvalidState;
-import pl.mchrapek.sha3.operations.Absorb;
-import pl.mchrapek.sha3.operations.Padding;
-import pl.mchrapek.sha3.operations.Squeeze;
+import pl.thewalkingcode.sha3.exceptions.AlgorithmInvalidState;
+import pl.thewalkingcode.sha3.operations.Absorb;
+import pl.thewalkingcode.sha3.operations.Padding;
+import pl.thewalkingcode.sha3.operations.Squeeze;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package pl.mchrapek.sha3.exceptions;
+package pl.thewalkingcode.sha3.exceptions;
 
 public class AlgorithmInvalidState extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package pl.mchrapek.sha3.transformation;
+package pl.thewalkingcode.sha3.transformation;
 
 public class Iota {
 

@@ -1,4 +1,4 @@
-package pl.mchrapek.sha3;
+package pl.thewalkingcode.sha3;
 
 public class LoremIpsumText {
 

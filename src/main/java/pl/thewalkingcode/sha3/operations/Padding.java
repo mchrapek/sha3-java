@@ -1,7 +1,7 @@
-package pl.mchrapek.sha3.operations;
+package pl.thewalkingcode.sha3.operations;
 
-import pl.mchrapek.sha3.Config;
-import pl.mchrapek.sha3.Type;
+import pl.thewalkingcode.sha3.Config;
+import pl.thewalkingcode.sha3.Type;
 
 public class Padding {
 

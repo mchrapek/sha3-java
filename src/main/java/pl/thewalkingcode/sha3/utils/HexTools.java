@@ -1,4 +1,4 @@
-package pl.mchrapek.sha3.utils;
+package pl.thewalkingcode.sha3.utils;
 
 import java.security.InvalidParameterException;
 

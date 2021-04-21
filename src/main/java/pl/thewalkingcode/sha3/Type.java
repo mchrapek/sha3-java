@@ -1,4 +1,4 @@
-package pl.mchrapek.sha3;
+package pl.thewalkingcode.sha3;
 
 public enum Type {
     SHA3_224(224),

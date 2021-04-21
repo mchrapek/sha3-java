@@ -1,10 +1,10 @@
-package pl.mchrapek.sha3;
+package pl.thewalkingcode.sha3;
 
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
-import pl.mchrapek.sha3.utils.HexTools;
+import pl.thewalkingcode.sha3.utils.HexTools;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
