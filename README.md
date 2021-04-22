@@ -28,7 +28,7 @@ implementation 'pl.thewalkingcode.sha3:sha3-java:1.1.1'
 
 ---
 
-## Example of usage
+## Usage
 
 ### For the text:
 ```
@@ -55,3 +55,7 @@ byte[] encode = sha3.encode(inputStream);
 ```
 Type type = Type.SHA3_224 / Type.SHA3_256 / Type.SHA3_384 / Type.SHA3_512; 
 ```
+
+### Repositories with an example of usage:
+
+* [Data Consistency Verifier](https://github.com/mchrapek/data-consistency-verifier-sha3)
