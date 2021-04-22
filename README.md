@@ -9,7 +9,26 @@ This is a java implementation of SHA3 (Keccak), based on the:
 
 ---
 
-## Example of usage:
+## Dependency
+
+### Maven
+
+```
+<dependency>
+  <groupId>pl.thewalkingcode.sha3</groupId>
+  <artifactId>sha3-java</artifactId>
+  <version>1.1.1</version>
+</dependency>
+```
+
+### Gradle
+```
+implementation 'pl.thewalkingcode.sha3:sha3-java:1.1.1'
+```
+
+---
+
+## Example of usage
 
 ### For the text:
 ```
